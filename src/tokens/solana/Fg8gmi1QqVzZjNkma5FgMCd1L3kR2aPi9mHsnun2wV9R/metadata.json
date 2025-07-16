@@ -1,1 +1,37 @@
-
+{
+  "name": "404COIN (ERROR)",
+  "symbol": "ERR",
+  "description": "The official token of the decentralized 404 rebellion. You found it. But it doesn\u2019t want to be found.",
+  "image": "ipfs://bafkreihztaxgzwhqkxhq6ekzghdz6kbdlymmbi2vm5gzwir5hktawh4yl4",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://pump.fun/Fg8gmi1QqVzZjNkma5FgMCd1L3kR2aPi9mHsnun2wV9R",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Decentralized"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "ipfs://bafkreihztaxgzwhqkxhq6ekzghdz6kbdlymmbi2vm5gzwir5hktawh4yl4",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Fg8gmi1QqVzZjNkma5FgMCd1L3kR2aPi9mHsnun2wV9R",
+        "share": 100
+      }
+    ]
+  }
+}
